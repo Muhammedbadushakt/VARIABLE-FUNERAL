@@ -277,7 +277,7 @@ demo\media\demo.mp4
 
 A browser-based demonstration of the Variable Funeral Graveyard is available through the project's demo website.
 
-[Add GitHub Pages demo link here]
+https://variable-funeral.netlify.app/
 
 ### 💻 VS Code Extension
 
