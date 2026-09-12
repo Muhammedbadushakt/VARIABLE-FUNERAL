@@ -268,7 +268,7 @@ Variable Funeral: Open Graveyard
 
 ## Video
 
-[demo\media\demo.mp4]
+demo\media\demo.mp4
 
 ---
 
