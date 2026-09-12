@@ -202,8 +202,9 @@ Variable Funeral: Open Graveyard
 
 ### 3. VS Code Extension
 
-![VS Code Extension](demo/media/vscode-extension1.png,demo/media/vscode-extension2.png,demo/media/vscode-extension3.png)
-
+![VS Code Extension 1](demo/media/vscode-extension1.png)
+![VS Code Extension 2](demo/media/vscode-extension2.png)
+![Vs Code Extension 3](demo/media/vscode-extension3.png)
 *Variable Funeral running directly inside the VS Code Extension Development Host.*
 
 > **Note:** Replace the image paths above with your actual screenshots before submitting the final repository.
@@ -213,8 +214,6 @@ Variable Funeral: Open Graveyard
 # Diagrams
 
 ## Workflow
-
-![Workflow](demo/media/workflow.png)
 
 *Variable Funeral analyzes source code, detects potentially unused declarations, and presents them as an interactive Graveyard inside VS Code.*
 
