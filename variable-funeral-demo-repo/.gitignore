@@ -1,0 +1,12 @@
+# Dependencies
+extension/node_modules/
+extension/out/
+extension/.vscode-test/
+
+# Build artifacts
+extension/dist/
+extension/*.vsix
+
+# OS / editor
+.DS_Store
+Thumbs.db
